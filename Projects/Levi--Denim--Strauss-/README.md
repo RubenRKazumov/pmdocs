@@ -7,7 +7,7 @@ Online version is available on [GitHub](https://github.com/RubenRKazumov/pmdocs/
 #### Initiating process group
 |Process|Begins|Status
 |:-|:-|:-
-|Develop project charter| | 
+|Develop project charter| |[x] 
 |Develop prelimitary project scope statement| | 
 #### Planning process group
 |Process|Begins|Status
@@ -58,7 +58,7 @@ Online version is available on [GitHub](https://github.com/RubenRKazumov/pmdocs/
 |Manage stakeholders| | 
 |Risk monitoring and control| | 
 |Contract administration| | 
-####Closing process group
+#### Closing process group
 |Process|Begins|Status
 |:-|:-|:-
 |Close project| | 
