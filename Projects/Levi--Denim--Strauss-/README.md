@@ -4,12 +4,12 @@ Created by [Ruben R. Kazumov](http://www.kazumov.com)
 Online version is available on [GitHub](https://github.com/RubenRKazumov/pmdocs/tree/master/Projects)
 ### Parameters
 ### Processes tracking
-####Initiating process group
+#### Initiating process group
 |Process|Begins|Status
 |:-|:-|:-
 |Develop project charter| | 
 |Develop prelimitary project scope statement| | 
-####Planning process group
+#### Planning process group
 |Process|Begins|Status
 |:-|:-|:-
 |Develop project management plan| | 
@@ -33,7 +33,7 @@ Online version is available on [GitHub](https://github.com/RubenRKazumov/pmdocs/
 |Risk responce planning| | 
 |Plan purchases and acquisitions| | 
 |Plan contracting| | 
-####Executing process group
+#### Executing process group
 |Process|Begins|Status
 |:-|:-|:-
 |Direct and manage project execution| | 
